@@ -8,4 +8,4 @@ MK_DIR := $(GIT_ROOT)/.make
 include ekgf-make.mk
 
 .PHONY: install
-install: terraform-install cog-install
+install: terraform-install cargo-install-cocogitto
