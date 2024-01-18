@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [0.0.2](https://github.com/EKGF/terraform-neptune/compare/0.0.1..0.0.2) - 2024-01-18
+
+- - -
+
 ## [0.0.1](https://github.com/EKGF/terraform-neptune/compare/567d988a3bd051f22d29ccc18d8b0f872ee58617..0.0.1) - 2024-01-18
 #### Miscellaneous Chores
 - third commit - ([100c07c](https://github.com/EKGF/terraform-neptune/commit/100c07c6bbc51de58879bf47b0c836b713c62995)) - [@jgeluk](https://github.com/jgeluk)
